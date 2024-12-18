@@ -1,1 +1,1 @@
-# Car_Wash
+## Открыть папку "MAIN index.html", после нажать F5
